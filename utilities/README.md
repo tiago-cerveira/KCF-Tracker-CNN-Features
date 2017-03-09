@@ -1,1 +1,3 @@
-Some utilities functions used independently from main system but within the scope of this project.
+# README.md
+
+Some utility functions used independently from the main system, but within the scope of this project.

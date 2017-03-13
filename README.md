@@ -1,6 +1,6 @@
 # KCF Tracker + CNN Features
 
-Repository for DeepTrack system.
+(description)
 
 ### ATTENTION!
 
